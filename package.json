@@ -1,0 +1,31 @@
+{
+    "name": "hexlet-js-testing",
+    "version": "1.0.0",
+    "description": "Hexlet js testing project",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "jest",
+      "lint": "eslint",
+      "lint-fix": "eslint --fix"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/hexlet-components/hexlet-js-testing.git"
+    },
+    "author": "Hexlet",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/hexlet-components/hexlet-js-testing/issues"
+    },
+    "homepage": "https://github.com/hexlet-components/hexlet-js-testing#readme",
+    "devDependencies": {
+      "@eslint/js": "^9.9.0",
+      "@jest/globals": "^29.7.0",
+      "@stylistic/eslint-plugin-js": "^2.6.4",
+      "eslint": "^9.9.0",
+      "globals": "^15.9.0",
+      "jest": "^29.7.0",
+      "npm-check-updates": "^17.0.6"
+    }
+  }
